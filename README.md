@@ -34,7 +34,8 @@ It is launched through VesselSSH's background job service, allowing you to work 
 VesselSSH currently uses Quantum File Browser to provide access to server files through a browser-based interface. You can browse, download, edit, and delete files.
 We are also working on developing our own native VesselSSH File Manager. Until it is ready, Quantum File Browser serves as the file management solution.
 <br><br>
-##Development Status & Release Plan
+
+## Development Status & Release Plan
 VesselSSH is actively under development, and new features and improvements are being added continuously.
 
 Our next major milestone is implementing user-specific permissions and access controls. Once this system is complete and the release requirements are met, we aim to publish VesselSSH v1.0.0.
