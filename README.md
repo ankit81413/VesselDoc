@@ -9,5 +9,6 @@ VesselSSH is an open-source DevOps tool designed to provide a desktop-like exper
 <br>
 The goal of VesselSSH is to make server management and development simpler, more accessible, and more convenient.
 
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Screenshot1 of high-level overview Vessel](https://ankit81413.github.io/VesselDoc/images/Screenshot%202026-10-16%20192744.png)  | ![Screenshot2 of high-level overview Vessel](https://ankit81413.github.io/VesselDoc/images/Screenshot%202026-10-16%20192848.png)  |
+| Screenshot 1 | Screenshot 2 |
+|---|---|
+| ![VesselSSH Overview](https://ankit81413.github.io/VesselDoc/images/Screenshot%202026-10-16%20192744.png) | ![VesselSSH Overview](https://ankit81413.github.io/VesselDoc/images/Screenshot%202026-10-16%20192848.png) |
