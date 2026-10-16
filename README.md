@@ -52,5 +52,5 @@ You can contribute by reporting bugs, suggesting features, improving documentati
 Have questions, suggestions, or ideas? Feel free to connect.
 
  * LinkedIn: [`linkedin.com/in/ankit81413/`](https://www.linkedin.com/in/ankit81413/)
- * Email: [ankitsen81413@gmail.com](mailto:ankitsen81413@gmail.com)
+ * Email: [`ankitsen81413@gmail.com`](mailto:ankitsen81413@gmail.com)
  
