@@ -40,3 +40,17 @@ VesselSSH is actively under development, and new features and improvements are b
 
 Our next major milestone is implementing user-specific permissions and access controls. Once this system is complete and the release requirements are met, we aim to publish VesselSSH v1.0.0.
 <br><br>
+
+## Contributions
+We welcome contributions from developers who want to help improve VesselSSH, especially as we work toward our first stable release.
+
+You can contribute by reporting bugs, suggesting features, improving documentation, or submitting pull requests.
+
+<br><br>
+
+## Contact
+Have questions, suggestions, or ideas? Feel free to connect.
+
+ * LinkedIn: [`linkedin.com/in/ankit81413/`](https://www.linkedin.com/in/ankit81413/)
+ * Email: [ankitsen81413@gmail.com](mailto:ankitsen81413@gmail.com)
+ 
