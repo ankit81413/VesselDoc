@@ -28,10 +28,8 @@ VesselSSH provides a browser-based terminal built with xterm.js and node-pty, co
 <br>
 **2. VS Code (code-server)** <br>
 VesselSSH integrates code-server, bringing the VS Code development experience directly into your browser.
-<br> <br>
-
 It is launched through VesselSSH's background job service, allowing you to work with your server's source code in a full editor instead of relying on basic terminal tools such as nano or cat.
-<br>
+<br><br>
 **3. File Manager**
 VesselSSH currently uses Quantum File Browser to provide access to server files through a browser-based interface. You can browse, download, edit, and delete files.
 
