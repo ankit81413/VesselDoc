@@ -8,7 +8,8 @@ VesselSSH is an open-source DevOps tool designed to provide a desktop-like exper
 > Although VesselSSH has its own authentication system, its permissions and access controls are not yet user-specific. For now, it is intended for single-user environments where one trusted user manages the server.
 <br>
 The goal of VesselSSH is to make server management and development simpler, more accessible, and more convenient.
-
+<br>
 | Screenshot 1 | Screenshot 2 |
 |---|---|
 | ![VesselSSH Overview](https://ankit81413.github.io/VesselDoc/images/Screenshot%202026-10-16%20192744.png) | ![VesselSSH Overview](https://ankit81413.github.io/VesselDoc/images/Screenshot%202026-10-16%20192848.png) |
+<br>
